@@ -83,8 +83,7 @@ const TYPED_LINES = [
   "...",
   "> então fiz esse programa para você",
   "...",
-  "٩(◕‿◕)۶ ٩(◕‿◕)۶ ٩(◕‿◕)۶",
-  "🧡❤️💚"
+  "٩(◕‿◕)۶ ٩(◕‿◕)۶ ٩(◕‿◕)۶  🧡❤️💚"
 ];
 const TYPED_CHAR_DELAY = 100;
 const POST_TYPING_SCENE_DELAY = 1000;
